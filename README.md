@@ -23,5 +23,5 @@
 - 분류 + 시계열 핵심 feature 추출
 - DNN + regression
 
-##구현
+## 구현
 - 미정

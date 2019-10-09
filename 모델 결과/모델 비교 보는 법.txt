@@ -1,0 +1,1 @@
+test개수, weekfrom, weekto, lastloss, epoch, lr, batchsize,  

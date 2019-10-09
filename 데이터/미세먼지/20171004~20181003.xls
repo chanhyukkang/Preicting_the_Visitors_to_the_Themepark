@@ -1,0 +1,6294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table summary="대기정보" class="tblTp1 mt10">
+	<thead>
+		
+		
+		<tr>
+			<th>일자</th>
+			<th>PM2.5<br />(㎍/㎥)</th>
+			<th>PM10<br />(㎍/㎥)</th>
+			<th>O3<br />(ppm)</th>
+			<th>NO2<br />(ppm)</th>
+			<th>CO<br />(ppm)</th>
+			<th>SO2<br />(ppm)</th>
+		</tr>
+		
+	</thead>
+	<tbody>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171004
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171005
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">16</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171006
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">11</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171007
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">10</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171008
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">21</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171009
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171010
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">32</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171011
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">12</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171012
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171013
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">29</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171014
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">23</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171015
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">22</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171016
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171017
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">43</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171018
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">28</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171019
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">21</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171020
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171021
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">37</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171022
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171023
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171024
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">31</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171025
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">38</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171026
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">44</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.044</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171027
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">54</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.047</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171028
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">49</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.044</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171029
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">67</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171030
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171031
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">32</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171101
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">38</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171102
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">44</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171103
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171104
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">58</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171105
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171106
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171107
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.042</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171108
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">71</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171109
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">48</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171110
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171111
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">77</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171112
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171113
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.006</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171114
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">49</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171115
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171116
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">28</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171117
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.047</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171118
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">36</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171119
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171120
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171121
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">56</td>
+		<td class="txt_ct">0.004</td>
+		<td class="txt_ct">0.045</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171122
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">56</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171123
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171124
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">19</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171125
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">27</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171126
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171127
+		</td>
+		
+		<td class="txt_ct">
+		
+		
+		</td>
+		<td class="txt_ct">61</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.045</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171128
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">71</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.055</td>
+		<td class="txt_ct">1.2</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171129
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">56</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171130
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171201
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">27</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171202
+		</td>
+		
+		<td class="txt_ct">
+		
+		29
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171203
+		</td>
+		
+		<td class="txt_ct">
+		
+		44
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.006</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171204
+		</td>
+		
+		<td class="txt_ct">
+		
+		33
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171205
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171206
+		</td>
+		
+		<td class="txt_ct">
+		
+		28
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.006</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171207
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171208
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">32</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171209
+		</td>
+		
+		<td class="txt_ct">
+		
+		29
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171210
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171211
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171212
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171213
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">34</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171214
+		</td>
+		
+		<td class="txt_ct">
+		
+		46
+		</td>
+		<td class="txt_ct">52</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.046</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171215
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">69</td>
+		<td class="txt_ct">0.002</td>
+		<td class="txt_ct">0.057</td>
+		<td class="txt_ct">1.2</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171216
+		</td>
+		
+		<td class="txt_ct">
+		
+		30
+		</td>
+		<td class="txt_ct">34</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171217
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171218
+		</td>
+		
+		<td class="txt_ct">
+		
+		37
+		</td>
+		<td class="txt_ct">48</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171219
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171220
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">35</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171221
+		</td>
+		
+		<td class="txt_ct">
+		
+		41
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171222
+		</td>
+		
+		<td class="txt_ct">
+		
+		46
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.044</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171223
+		</td>
+		
+		<td class="txt_ct">
+		
+		74
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171224
+		</td>
+		
+		<td class="txt_ct">
+		
+		60
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171225
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">29</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171226
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171227
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">28</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171228
+		</td>
+		
+		<td class="txt_ct">
+		
+		31
+		</td>
+		<td class="txt_ct">46</td>
+		<td class="txt_ct">0.002</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171229
+		</td>
+		
+		<td class="txt_ct">
+		
+		72
+		</td>
+		<td class="txt_ct">87</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.044</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171230
+		</td>
+		
+		<td class="txt_ct">
+		
+		86
+		</td>
+		<td class="txt_ct">114</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">1.4</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20171231
+		</td>
+		
+		<td class="txt_ct">
+		
+		36
+		</td>
+		<td class="txt_ct">55</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180101
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180102
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">35</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180103
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">32</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180104
+		</td>
+		
+		<td class="txt_ct">
+		
+		27
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180105
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">47</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180106
+		</td>
+		
+		<td class="txt_ct">
+		
+		32
+		</td>
+		<td class="txt_ct">44</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180107
+		</td>
+		
+		<td class="txt_ct">
+		
+		46
+		</td>
+		<td class="txt_ct">57</td>
+		<td class="txt_ct">0.004</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">1.3</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180108
+		</td>
+		
+		<td class="txt_ct">
+		
+		42
+		</td>
+		<td class="txt_ct">56</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180109
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">35</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180110
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180111
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180112
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180113
+		</td>
+		
+		<td class="txt_ct">
+		
+		42
+		</td>
+		<td class="txt_ct">48</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180114
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">58</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180115
+		</td>
+		
+		<td class="txt_ct">
+		
+		51
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180116
+		</td>
+		
+		<td class="txt_ct">
+		
+		92
+		</td>
+		<td class="txt_ct">103</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.060</td>
+		<td class="txt_ct">1.4</td>
+		<td class="txt_ct">0.008</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180117
+		</td>
+		
+		<td class="txt_ct">
+		
+		91
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.051</td>
+		<td class="txt_ct">1.2</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180118
+		</td>
+		
+		<td class="txt_ct">
+		
+		57
+		</td>
+		<td class="txt_ct">76</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180119
+		</td>
+		
+		<td class="txt_ct">
+		
+		30
+		</td>
+		<td class="txt_ct">54</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180120
+		</td>
+		
+		<td class="txt_ct">
+		
+		63
+		</td>
+		<td class="txt_ct">93</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180121
+		</td>
+		
+		<td class="txt_ct">
+		
+		44
+		</td>
+		<td class="txt_ct">64</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180122
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.007</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180123
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">20</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180124
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180125
+		</td>
+		
+		<td class="txt_ct">
+		
+		13
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180126
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">36</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180127
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">52</td>
+		<td class="txt_ct">0.006</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180128
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">32</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180129
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">49</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180130
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180131
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180201
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">37</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180202
+		</td>
+		
+		<td class="txt_ct">
+		
+		35
+		</td>
+		<td class="txt_ct">49</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.047</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180203
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180204
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">36</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180205
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">23</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180206
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180207
+		</td>
+		
+		<td class="txt_ct">
+		
+		26
+		</td>
+		<td class="txt_ct">44</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180208
+		</td>
+		
+		<td class="txt_ct">
+		
+		42
+		</td>
+		<td class="txt_ct">55</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.053</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180209
+		</td>
+		
+		<td class="txt_ct">
+		
+		55
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.057</td>
+		<td class="txt_ct">1.3</td>
+		<td class="txt_ct">0.008</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180210
+		</td>
+		
+		<td class="txt_ct">
+		
+		46
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180211
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">53</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180212
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">50</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180213
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">52</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180214
+		</td>
+		
+		<td class="txt_ct">
+		
+		33
+		</td>
+		<td class="txt_ct">65</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180215
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180216
+		</td>
+		
+		<td class="txt_ct">
+		
+		25
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180217
+		</td>
+		
+		<td class="txt_ct">
+		
+		13
+		</td>
+		<td class="txt_ct">54</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180218
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180219
+		</td>
+		
+		<td class="txt_ct">
+		
+		38
+		</td>
+		<td class="txt_ct">55</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.043</td>
+		<td class="txt_ct">1.0</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180220
+		</td>
+		
+		<td class="txt_ct">
+		
+		37
+		</td>
+		<td class="txt_ct">63</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180221
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180222
+		</td>
+		
+		<td class="txt_ct">
+		
+		29
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180223
+		</td>
+		
+		<td class="txt_ct">
+		
+		70
+		</td>
+		<td class="txt_ct">94</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180224
+		</td>
+		
+		<td class="txt_ct">
+		
+		56
+		</td>
+		<td class="txt_ct">79</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180225
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180226
+		</td>
+		
+		<td class="txt_ct">
+		
+		45
+		</td>
+		<td class="txt_ct">57</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.045</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180227
+		</td>
+		
+		<td class="txt_ct">
+		
+		66
+		</td>
+		<td class="txt_ct">86</td>
+		<td class="txt_ct">0.003</td>
+		<td class="txt_ct">0.064</td>
+		<td class="txt_ct">1.1</td>
+		<td class="txt_ct">0.009</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180228
+		</td>
+		
+		<td class="txt_ct">
+		
+		53
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.043</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180301
+		</td>
+		
+		<td class="txt_ct">
+		
+		32
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180302
+		</td>
+		
+		<td class="txt_ct">
+		
+		26
+		</td>
+		<td class="txt_ct">68</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180303
+		</td>
+		
+		<td class="txt_ct">
+		
+		29
+		</td>
+		<td class="txt_ct">59</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180304
+		</td>
+		
+		<td class="txt_ct">
+		
+		29
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180305
+		</td>
+		
+		<td class="txt_ct">
+		
+		4
+		</td>
+		<td class="txt_ct">11</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180306
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180307
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180308
+		</td>
+		
+		<td class="txt_ct">
+		
+		28
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180309
+		</td>
+		
+		<td class="txt_ct">
+		
+		55
+		</td>
+		<td class="txt_ct">69</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180310
+		</td>
+		
+		<td class="txt_ct">
+		
+		32
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180311
+		</td>
+		
+		<td class="txt_ct">
+		
+		42
+		</td>
+		<td class="txt_ct">57</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180312
+		</td>
+		
+		<td class="txt_ct">
+		
+		75
+		</td>
+		<td class="txt_ct">110</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.048</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180313
+		</td>
+		
+		<td class="txt_ct">
+		
+		39
+		</td>
+		<td class="txt_ct">54</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180314
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180315
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">23</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180316
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180317
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180318
+		</td>
+		
+		<td class="txt_ct">
+		
+		54
+		</td>
+		<td class="txt_ct">56</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.051</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180319
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180320
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">20</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180321
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">14</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180322
+		</td>
+		
+		<td class="txt_ct">
+		
+		26
+		</td>
+		<td class="txt_ct">43</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180323
+		</td>
+		
+		<td class="txt_ct">
+		
+		49
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180324
+		</td>
+		
+		<td class="txt_ct">
+		
+		92
+		</td>
+		<td class="txt_ct">106</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.9</td>
+		<td class="txt_ct">0.006</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180325
+		</td>
+		
+		<td class="txt_ct">
+		
+		97
+		</td>
+		<td class="txt_ct">115</td>
+		<td class="txt_ct">0.043</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180326
+		</td>
+		
+		<td class="txt_ct">
+		
+		53
+		</td>
+		<td class="txt_ct">86</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.045</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180327
+		</td>
+		
+		<td class="txt_ct">
+		
+		61
+		</td>
+		<td class="txt_ct">90</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.8</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180328
+		</td>
+		
+		<td class="txt_ct">
+		
+		46
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180329
+		</td>
+		
+		<td class="txt_ct">
+		
+		47
+		</td>
+		<td class="txt_ct">65</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180330
+		</td>
+		
+		<td class="txt_ct">
+		
+		36
+		</td>
+		<td class="txt_ct">58</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180331
+		</td>
+		
+		<td class="txt_ct">
+		
+		26
+		</td>
+		<td class="txt_ct">54</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180401
+		</td>
+		
+		<td class="txt_ct">
+		
+		36
+		</td>
+		<td class="txt_ct">75</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180402
+		</td>
+		
+		<td class="txt_ct">
+		
+		30
+		</td>
+		<td class="txt_ct">77</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180403
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">69</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180404
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180405
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">8</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180406
+		</td>
+		
+		<td class="txt_ct">
+		
+		27
+		</td>
+		<td class="txt_ct">111</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180407
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">54</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180408
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180409
+		</td>
+		
+		<td class="txt_ct">
+		
+		27
+		</td>
+		<td class="txt_ct">36</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180410
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">53</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180411
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">64</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180412
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">48</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180413
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180414
+		</td>
+		
+		<td class="txt_ct">
+		
+		13
+		</td>
+		<td class="txt_ct">23</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180415
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">69</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180416
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180417
+		</td>
+		
+		<td class="txt_ct">
+		
+		29
+		</td>
+		<td class="txt_ct">62</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180418
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">69</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180419
+		</td>
+		
+		<td class="txt_ct">
+		
+		40
+		</td>
+		<td class="txt_ct">85</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180420
+		</td>
+		
+		<td class="txt_ct">
+		
+		50
+		</td>
+		<td class="txt_ct">91</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.051</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180421
+		</td>
+		
+		<td class="txt_ct">
+		
+		39
+		</td>
+		<td class="txt_ct">66</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180422
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">38</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180423
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">12</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180424
+		</td>
+		
+		<td class="txt_ct">
+		
+		4
+		</td>
+		<td class="txt_ct">12</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.2</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180425
+		</td>
+		
+		<td class="txt_ct">
+		
+		28
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180426
+		</td>
+		
+		<td class="txt_ct">
+		
+		28
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180427
+		</td>
+		
+		<td class="txt_ct">
+		
+		40
+		</td>
+		<td class="txt_ct">54</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180428
+		</td>
+		
+		<td class="txt_ct">
+		
+		38
+		</td>
+		<td class="txt_ct">57</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180429
+		</td>
+		
+		<td class="txt_ct">
+		
+		31
+		</td>
+		<td class="txt_ct">50</td>
+		<td class="txt_ct">0.048</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180430
+		</td>
+		
+		<td class="txt_ct">
+		
+		53
+		</td>
+		<td class="txt_ct">73</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180501
+		</td>
+		
+		<td class="txt_ct">
+		
+		38
+		</td>
+		<td class="txt_ct">61</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180502
+		</td>
+		
+		<td class="txt_ct">
+		
+		25
+		</td>
+		<td class="txt_ct">38</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180503
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">37</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180504
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">49</td>
+		<td class="txt_ct">0.050</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180505
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.052</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180506
+		</td>
+		
+		<td class="txt_ct">
+		
+		9
+		</td>
+		<td class="txt_ct">19</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180507
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">38</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180508
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180509
+		</td>
+		
+		<td class="txt_ct">
+		
+		10
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180510
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180511
+		</td>
+		
+		<td class="txt_ct">
+		
+		31
+		</td>
+		<td class="txt_ct">51</td>
+		<td class="txt_ct">0.042</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180512
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">27</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180513
+		</td>
+		
+		<td class="txt_ct">
+		
+		13
+		</td>
+		<td class="txt_ct">22</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180514
+		</td>
+		
+		<td class="txt_ct">
+		
+		39
+		</td>
+		<td class="txt_ct">66</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180515
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">66</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180516
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">34</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180517
+		</td>
+		
+		<td class="txt_ct">
+		
+		8
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180518
+		</td>
+		
+		<td class="txt_ct">
+		
+		4
+		</td>
+		<td class="txt_ct">9</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180519
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">17</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.2</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180520
+		</td>
+		
+		<td class="txt_ct">
+		
+		8
+		</td>
+		<td class="txt_ct">17</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180521
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">21</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180522
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180523
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">52</td>
+		<td class="txt_ct">0.038</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180524
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">100</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180525
+		</td>
+		
+		<td class="txt_ct">
+		
+		31
+		</td>
+		<td class="txt_ct">92</td>
+		<td class="txt_ct">0.042</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180526
+		</td>
+		
+		<td class="txt_ct">
+		
+		37
+		</td>
+		<td class="txt_ct">81</td>
+		<td class="txt_ct">0.051</td>
+		<td class="txt_ct">0.041</td>
+		<td class="txt_ct">0.7</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180527
+		</td>
+		
+		<td class="txt_ct">
+		
+		26
+		</td>
+		<td class="txt_ct">66</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180528
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">50</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180529
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">44</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180530
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180531
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180601
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.035</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180602
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180603
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">32</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180604
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180605
+		</td>
+		
+		<td class="txt_ct">
+		
+		31
+		</td>
+		<td class="txt_ct">48</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180606
+		</td>
+		
+		<td class="txt_ct">
+		
+		31
+		</td>
+		<td class="txt_ct">50</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180607
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">48</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180608
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">37</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180609
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">44</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180610
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">13</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.2</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180611
+		</td>
+		
+		<td class="txt_ct">
+		
+		4
+		</td>
+		<td class="txt_ct">13</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.2</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180612
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">19</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180613
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">28</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180614
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">29</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180615
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">17</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180616
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180617
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.036</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180618
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">43</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180619
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180620
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180621
+		</td>
+		
+		<td class="txt_ct">
+		
+		25
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.040</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180622
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180623
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.027</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180624
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">52</td>
+		<td class="txt_ct">0.060</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180625
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180626
+		</td>
+		
+		<td class="txt_ct">
+		
+		-
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180627
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">29</td>
+		<td class="txt_ct">0.042</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180628
+		</td>
+		
+		<td class="txt_ct">
+		
+		13
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180629
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180630
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">43</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180701
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">13</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.2</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180702
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">12</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180703
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180704
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180705
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">-</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180706
+		</td>
+		
+		<td class="txt_ct">
+		
+		3
+		</td>
+		<td class="txt_ct">8</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180707
+		</td>
+		
+		<td class="txt_ct">
+		
+		3
+		</td>
+		<td class="txt_ct">12</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180708
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">16</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180709
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">11</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180710
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">27</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180711
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">31</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180712
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">31</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180713
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180714
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">22</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180715
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">27</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180716
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180717
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180718
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">33</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180719
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">35</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180720
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180721
+		</td>
+		
+		<td class="txt_ct">
+		
+		27
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.043</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180722
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">38</td>
+		<td class="txt_ct">0.047</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180723
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">34</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.005</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180724
+		</td>
+		
+		<td class="txt_ct">
+		
+		26
+		</td>
+		<td class="txt_ct">45</td>
+		<td class="txt_ct">0.051</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180725
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">36</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180726
+		</td>
+		
+		<td class="txt_ct">
+		
+		25
+		</td>
+		<td class="txt_ct">42</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180727
+		</td>
+		
+		<td class="txt_ct">
+		
+		34
+		</td>
+		<td class="txt_ct">48</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180728
+		</td>
+		
+		<td class="txt_ct">
+		
+		25
+		</td>
+		<td class="txt_ct">43</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180729
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180730
+		</td>
+		
+		<td class="txt_ct">
+		
+		6
+		</td>
+		<td class="txt_ct">15</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180731
+		</td>
+		
+		<td class="txt_ct">
+		
+		10
+		</td>
+		<td class="txt_ct">21</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180801
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.046</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180802
+		</td>
+		
+		<td class="txt_ct">
+		
+		23
+		</td>
+		<td class="txt_ct">41</td>
+		<td class="txt_ct">0.049</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180803
+		</td>
+		
+		<td class="txt_ct">
+		
+		31
+		</td>
+		<td class="txt_ct">49</td>
+		<td class="txt_ct">0.041</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.004</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180804
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180805
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180806
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">36</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180807
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">24</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180808
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">27</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180809
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">35</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180810
+		</td>
+		
+		<td class="txt_ct">
+		
+		10
+		</td>
+		<td class="txt_ct">23</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180811
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">15</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180812
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">19</td>
+		<td class="txt_ct">0.030</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180813
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">35</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180814
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180815
+		</td>
+		
+		<td class="txt_ct">
+		
+		19
+		</td>
+		<td class="txt_ct">37</td>
+		<td class="txt_ct">0.033</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180816
+		</td>
+		
+		<td class="txt_ct">
+		
+		8
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180817
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180818
+		</td>
+		
+		<td class="txt_ct">
+		
+		8
+		</td>
+		<td class="txt_ct">17</td>
+		<td class="txt_ct">0.032</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180819
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">30</td>
+		<td class="txt_ct">0.042</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180820
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180821
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180822
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">29</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180823
+		</td>
+		
+		<td class="txt_ct">
+		
+		8
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180824
+		</td>
+		
+		<td class="txt_ct">
+		
+		4
+		</td>
+		<td class="txt_ct">9</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180825
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180826
+		</td>
+		
+		<td class="txt_ct">
+		
+		10
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180827
+		</td>
+		
+		<td class="txt_ct">
+		
+		6
+		</td>
+		<td class="txt_ct">11</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180828
+		</td>
+		
+		<td class="txt_ct">
+		
+		5
+		</td>
+		<td class="txt_ct">13</td>
+		<td class="txt_ct">0.005</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180829
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">15</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180830
+		</td>
+		
+		<td class="txt_ct">
+		
+		21
+		</td>
+		<td class="txt_ct">31</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180831
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">-</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180901
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180902
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">19</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.009</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180903
+		</td>
+		
+		<td class="txt_ct">
+		
+		8
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180904
+		</td>
+		
+		<td class="txt_ct">
+		
+		9
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180905
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">28</td>
+		<td class="txt_ct">0.039</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180906
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">34</td>
+		<td class="txt_ct">0.034</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180907
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">25</td>
+		<td class="txt_ct">0.037</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180908
+		</td>
+		
+		<td class="txt_ct">
+		
+		13
+		</td>
+		<td class="txt_ct">27</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180909
+		</td>
+		
+		<td class="txt_ct">
+		
+		14
+		</td>
+		<td class="txt_ct">28</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180910
+		</td>
+		
+		<td class="txt_ct">
+		
+		6
+		</td>
+		<td class="txt_ct">15</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180911
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">16</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180912
+		</td>
+		
+		<td class="txt_ct">
+		
+		9
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180913
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">23</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180914
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.008</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180915
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">15</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180916
+		</td>
+		
+		<td class="txt_ct">
+		
+		22
+		</td>
+		<td class="txt_ct">37</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180917
+		</td>
+		
+		<td class="txt_ct">
+		
+		17
+		</td>
+		<td class="txt_ct">32</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180918
+		</td>
+		
+		<td class="txt_ct">
+		
+		20
+		</td>
+		<td class="txt_ct">39</td>
+		<td class="txt_ct">0.018</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180919
+		</td>
+		
+		<td class="txt_ct">
+		
+		18
+		</td>
+		<td class="txt_ct">38</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.031</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180920
+		</td>
+		
+		<td class="txt_ct">
+		
+		9
+		</td>
+		<td class="txt_ct">16</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180921
+		</td>
+		
+		<td class="txt_ct">
+		
+		6
+		</td>
+		<td class="txt_ct">13</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180922
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">31</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180923
+		</td>
+		
+		<td class="txt_ct">
+		
+		12
+		</td>
+		<td class="txt_ct">31</td>
+		<td class="txt_ct">0.026</td>
+		<td class="txt_ct">0.014</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180924
+		</td>
+		
+		<td class="txt_ct">
+		
+		7
+		</td>
+		<td class="txt_ct">16</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180925
+		</td>
+		
+		<td class="txt_ct">
+		
+		9
+		</td>
+		<td class="txt_ct">16</td>
+		<td class="txt_ct">0.017</td>
+		<td class="txt_ct">0.013</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180926
+		</td>
+		
+		<td class="txt_ct">
+		
+		6
+		</td>
+		<td class="txt_ct">11</td>
+		<td class="txt_ct">0.019</td>
+		<td class="txt_ct">0.012</td>
+		<td class="txt_ct">0.3</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180927
+		</td>
+		
+		<td class="txt_ct">
+		
+		6
+		</td>
+		<td class="txt_ct">13</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.020</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180928
+		</td>
+		
+		<td class="txt_ct">
+		
+		9
+		</td>
+		<td class="txt_ct">18</td>
+		<td class="txt_ct">0.011</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180929
+		</td>
+		
+		<td class="txt_ct">
+		
+		9
+		</td>
+		<td class="txt_ct">19</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.022</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20180930
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">21</td>
+		<td class="txt_ct">0.024</td>
+		<td class="txt_ct">0.015</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20181001
+		</td>
+		
+		<td class="txt_ct">
+		
+		11
+		</td>
+		<td class="txt_ct">17</td>
+		<td class="txt_ct">0.029</td>
+		<td class="txt_ct">0.010</td>
+		<td class="txt_ct">0.4</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20181002
+		</td>
+		
+		<td class="txt_ct">
+		
+		15
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.023</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		20181003
+		</td>
+		
+		<td class="txt_ct">
+		
+		16
+		</td>
+		<td class="txt_ct">26</td>
+		<td class="txt_ct">0.016</td>
+		<td class="txt_ct">0.028</td>
+		<td class="txt_ct">0.5</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		최  대  
+		</td>
+		
+		<td class="txt_ct">
+		
+		97
+		</td>
+		<td class="txt_ct">94</td>
+		<td class="txt_ct">0.060</td>
+		<td class="txt_ct">0.064</td>
+		<td class="txt_ct">1.4</td>
+		<td class="txt_ct">0.009</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		최  소  
+		</td>
+		
+		<td class="txt_ct">
+		
+		10
+		</td>
+		<td class="txt_ct">10</td>
+		<td class="txt_ct">0.002</td>
+		<td class="txt_ct">0.007</td>
+		<td class="txt_ct">0.2</td>
+		<td class="txt_ct">0.002</td>
+	</tr>
+	
+	<tr>
+		<td class="txt_ct">
+		
+		평 균  
+		</td>
+		
+		<td class="txt_ct">
+		
+		24
+		</td>
+		<td class="txt_ct">40</td>
+		<td class="txt_ct">0.021</td>
+		<td class="txt_ct">0.025</td>
+		<td class="txt_ct">0.6</td>
+		<td class="txt_ct">0.003</td>
+	</tr>
+
+	</tbody>
+</table>

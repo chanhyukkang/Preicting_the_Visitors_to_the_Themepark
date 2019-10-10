@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>page</title>
+         <style>
+             .button {
+                 border:1x solid #ff0080;    /*---테두리 정의---*/
+                 background-Color:#ffe6f2;   /*--백그라운드 정의---*/
+                 font:20px 굴림;      /*--폰트 정의---*/
+                 font-weight:bold;   /*--폰트 굵기---*/
+                 color:#ff0080;    /*--폰트 색깔---*/
+                 width:160px;
+                 height:80px;  /*--버튼 크기---*/
+                 display: flex;
+                 align-items: center;
+                 justify-content: center;
+             }
+             #container * {
+                 margin-left:auto;
+                 margin-right:auto;
+                 
+             }
+             
+             #header {
+                 text-align: center;
+                 font-size: 50px;
+             }
+             
+             body {
+                 width: 100%;
+             }
+    </style>
+    </head>
+    <body>
+        <div id = 'container' >
+            <div id="header">이날어때?!</div>
+        <br>
+        <form method = "post", action="/test" enctype = "multipart/form-data">
+        <input type = "button" value = "시작하기" name = 'start' class = 'button' onclick="location.href='http://localhost:5002/select1'"/>
+        <br>
+        <input type = "button" value = '도움말' name = 'help' class = 'button' onclick="location.href='http://localhost:5002/help'" />
+        </form>
+        </div>
+    </body>
+</html>
+
+<!DOCTYPE html>

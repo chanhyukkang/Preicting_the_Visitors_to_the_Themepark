@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>이날어때?!</title>
+		<meta name="description" content="A tutorial on how to recreate the effect of YouTube's little left side menu. The idea is to slide a little menu icon to the right side while revealing some menu item list beneath. " />
+		<meta name="keywords" content="Add keywords" />
+		<meta name="author" content="_yourName_ for Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="./css/default.css" />
+		<link rel="stylesheet" type="text/css" href="./css/component.css" />
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+    <script src = "http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<body>
+		<div class="container">	
+			<!-- Codrops top bar -->
+			<div class="codrops-top clearfix">
+				<a href="http://tympanus.net/Development/FullscreenLayoutPageTransitions/"><strong>&laquo; Previous Demo: Fullscreen Layout with Page Transitions</strong></a>
+				<span class="right"><a href="http://tympanus.net/codrops/?p=14806"><strong>Back to the Codrops Article</strong></a></span>
+			</div><!--/ Codrops top bar -->
+			<header class="clearfix">
+				<h1>이날어때?!<span>(inalutte)</span></h1>	
+			</header>
+			<div class="main">
+				<p>실시간 날씨 상황입니다</p>
+                <br><br><br>
+                <h3>도시 이름을 영어로 입력해주세요 (ex:서울->seoul,부산->busan 등등)</h3>
+                <br>
+                <input id="city" value="seoul"> </input>
+
+<button id="getWeatherForcast">날씨보기</button><!-- 버튼을 누르면 지역이 뜸 -->
+
+<div id="showWeatherForcast"></div>
+
+<img id="weatherImg"/>
+
+            <script type="text/javascript">
+
+                $(document).ready(function(){
+
+                    $("#getWeatherForcast").click(function(){
+
+                        var atmos;
+                        var city = $("#city").val();//입력한 도시정보 가져오는듯 - 단일 모드
+                        var key = '36306aa3ee496393a49c392f323c30fe';
+
+$.ajax({/* ajax는 새로고침할 필요없이 버튼을 클릭하면 자동으로 새로 기능이 수행하게끔 해준다. */
+
+url: 'http://api.openweathermap.org/data/2.5/weather',//이미지
+
+dataType: 'json',
+
+type: 'GET',
+
+data: {q:city, appid:key, units:'metric'},//도시 API키 단위법:섭씨, 키, 기간
+
+success: function(data){//출력부
+
+var wf = '';
+
+var atmos = "";
+
+$.each(data.weather, function(index, val){
+
+wf += '<p><b>' + data.name + '</p></b>' +
+
+data.main.temp + '°C ' + ' | ' + val.main + ", " +
+
+val.description
+
+atmos = val.main;//날씨를 변수로 지정
+
+var image;
+
+if(atmos == "Clear"){
+
+image ="./clear.jpg";
+
+}else if(atmos == "Rain"){
+
+image ="./rain.jpg";
+
+}else if(atmos == "Clouds"){
+
+image ="./cloud.jpg";
+
+}
+else if(atmos == "Snow"){
+
+image ="./snow.jpg";
+
+}
+
+$("#weatherImg").attr("src", image);
+
+});//선택한 요소의 속성src의 이미지 값을 weatherImg에 줌
+
+$("#showWeatherForcast").html(wf);
+
+}
+
+});
+
+});
+
+});
+
+</script>
+
+				<div class="side">
+					<nav class="dr-menu">
+						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Account</a></div>
+						<ul>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010">뒤로가기</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div><!-- /container -->
+		<script src="js/ytmenu.js"></script>
+	</body>
+</html>

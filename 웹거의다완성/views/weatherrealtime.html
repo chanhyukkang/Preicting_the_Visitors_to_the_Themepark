@@ -37,74 +37,57 @@
 
 <img id="weatherImg"/>
 
-            <script type="text/javascript">
+<script type="text/javascript">
 
-                $(document).ready(function(){
+$(document).ready(function(){
 
-                    $("#getWeatherForcast").click(function(){
+    $("#getWeatherForcast").click(function(){
 
-                        var atmos;
-                        var city = $("#city").val();//입력한 도시정보 가져오는듯 - 단일 모드
-                        var key = '36306aa3ee496393a49c392f323c30fe';
+        var atmos;
+        var city = $("#city").val();//입력한 도시정보 가져오는듯 - 단일 모드
+        var key = '36306aa3ee496393a49c392f323c30fe';
+        
+        //var weekday = ['월', '화', '수', '목', '금', '토', '일'];
+        var d = new Date();
 
-$.ajax({/* ajax는 새로고침할 필요없이 버튼을 클릭하면 자동으로 새로 기능이 수행하게끔 해준다. */
+        $.ajax({/* ajax는 새로고침할 필요없이 버튼을 클릭하면 자동으로 새로 기능이 수행하게끔 해준다. */
 
-url: 'http://api.openweathermap.org/data/2.5/weather',//이미지
+            url: 'https://api.openweathermap.org/data/2.5/forecast?appid='+key+'&q='+city+'&count=10',//이미지
 
-dataType: 'json',
+            dataType: 'json',
 
-type: 'GET',
+            type: 'GET',
 
-data: {q:city, appid:key, units:'metric'},//도시 API키 단위법:섭씨, 키, 기간
+            success: function(data){//출력부
+                console.log('Received data:', data)
+                var wf = '';
+                var atmos = "";
+                
+                var date = d.getDate();
+                var month = d.getMonth();
+                //var weekdate = d.getDay();
+                var day = date;
+                var m = month+1;
+                
 
-success: function(data){//출력부
+                wf += "<h2>" + data.city.name + "</h2>"; // City (displays once)
+                $.each(data.list, function(index, val) {
+                    wf += "<p>" // Opening paragraph tag
+                    if(index%8==0){
+                      wf += "<b>"+m+"월"+ (day + index/8) +"일</b>: " // Day
+                      wf += val.main.temp-273.00 + "&degC" // Temperature
+                      wf += "<span> | " + val.weather[0].description + "</span>"; // Description
+                      wf += "<img src='https://openweathermap.org/img/w/" + val.weather[0].icon + ".png'>" // Icon
+                    }
+                      wf += "</p>" // Closing paragraph tag
+                });
+            $("#showWeatherForcast").html(wf);      
 
-var wf = '';
+            }   
 
-var atmos = "";
+        });
 
-$.each(data.weather, function(index, val){
-
-wf += '<p><b>' + data.name + '</p></b>' +
-
-data.main.temp + '°C ' + ' | ' + val.main + ", " +
-
-val.description
-
-atmos = val.main;//날씨를 변수로 지정
-
-var image;
-
-if(atmos == "Clear"){
-
-image ="./clear.jpg";
-
-}else if(atmos == "Rain"){
-
-image ="./rain.jpg";
-
-}else if(atmos == "Clouds"){
-
-image ="./cloud.jpg";
-
-}
-else if(atmos == "Snow"){
-
-image ="./snow.jpg";
-
-}
-
-$("#weatherImg").attr("src", image);
-
-});//선택한 요소의 속성src의 이미지 값을 weatherImg에 줌
-
-$("#showWeatherForcast").html(wf);
-
-}
-
-});
-
-});
+    });
 
 });
 

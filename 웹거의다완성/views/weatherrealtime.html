@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+    <style>
+    .button {
+                 border:1x dashed #ff0080;    /*---테두리 정의---*/
+                 background-Color:#ffe1f2;   /*--백그라운드 정의---*/
+                 font:20px 굴림;      /*--폰트 정의---*/
+                 font-weight:bold;   /*--폰트 굵기---*/
+                 color:#ff0080;    /*--폰트 색깔---*/
+                 width:100px;
+                 height:30px;  /*--버튼 크기---*/
+                 align-items: center;
+                 justify-content: center;
+             }
+    </style>
 	<head>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
@@ -25,13 +38,13 @@
 				<h1>이날어때?!<span>(inalutte)</span></h1>	
 			</header>
 			<div class="main">
-				<p>실시간 날씨 상황입니다</p>
+				<p>날씨 상황입니다</p>
                 <br><br><br>
                 <h3>도시 이름을 영어로 입력해주세요 (ex:서울->seoul,부산->busan 등등)</h3>
                 <br>
                 <input id="city" value="seoul"> </input>
 
-<button id="getWeatherForcast">날씨보기</button><!-- 버튼을 누르면 지역이 뜸 -->
+<button id="getWeatherForcast" class = 'button'>날씨보기</button><!-- 버튼을 누르면 지역이 뜸 -->
 
 <div id="showWeatherForcast"></div>
 
@@ -75,20 +88,16 @@ $(document).ready(function(){
                     wf += "<p>" // Opening paragraph tag
                     if(index%8==0){
                       wf += "<b>"+m+"월"+ (day + index/8) +"일</b>: " // Day
-                      wf += val.main.temp-273.00 + "&degC" // Temperature
+                      wf += (val.main.temp-273.15).toFixed(1) + "&degC" // Temperature
                       wf += "<span> | " + val.weather[0].description + "</span>"; // Description
                       wf += "<img src='https://openweathermap.org/img/w/" + val.weather[0].icon + ".png'>" // Icon
                     }
                       wf += "</p>" // Closing paragraph tag
                 });
             $("#showWeatherForcast").html(wf);      
-
             }   
-
         });
-
     });
-
 });
 
 </script>

@@ -50,8 +50,6 @@ router.get('/send_data', function(req, res, next){
 
 
 router.post('/complete', function(req, res, next){
-  date = req.body.date;
-  console.log(req.body.date);
   var options = {
     mode: 'text',
     pythonPath: 'C:\\Users\\kwakms123\\Anaconda3\\python.exe',

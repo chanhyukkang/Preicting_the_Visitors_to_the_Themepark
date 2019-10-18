@@ -12,8 +12,7 @@
 		<link rel="stylesheet" type="text/css" href="./css/default.css" />
 		<link rel="stylesheet" type="text/css" href="./css/component.css" />
 		<script src="js/modernizr.custom.js"></script>
-        <script>var results = "<%= realresults %>";
-                alert(results);</script>
+        
 	</head>
 	<body>
 		<div class="container">	
@@ -29,6 +28,10 @@
 				<img src="./애버랜드.jpg" width="100" height="150">
                 <img src="./에버랜드2.jpg" width="100" height="150">
                 <h1>인원은 xx명입니다</h1>
+                <script>
+                var result = <%- JSON.stringify(realresults) %>;
+                document.write(result);
+                </script>
 				<div class="side">
 					<nav class="dr-menu">
 						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Account</a></div>

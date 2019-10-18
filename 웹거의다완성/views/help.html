@@ -13,16 +13,45 @@
 		<link rel="stylesheet" type="text/css" href="./css/component.css" />
 		<script src="js/modernizr.custom.js"></script>
 	</head>
+    
+    <style>
+        *{margin:0; padding:0;}
+        .wrapper{width: 1300px; margin:0 auto;}
+        .clearfix{content:''; display:block; clear:both;}
+        
+        header{height:100px; background-color:#389561;
+            position:fixed; width:100%; z-index:9999; top:0; left:0;}
+        h1{line-height:100px; float:left;}
+        .dr-menu{float:right;}
+        .dr-menu li{float:left;}
+        .dr-menu a{line-height:70px; padding:0 15px; display: block;}
+        
+        body{margin-top:100px; margin-bottom:70px}
+        
+        footer{height:70px; background-color:floralwhite;
+            position:fixed; width:100%; left:0; bottom:0;border:1px solid white}
+    </style>
+    
+    <header class="clearfix">
+        <div class = "wrapper">
+        <h1 style="font-size:40pt">INAL UTTE ?!</h1>
+        <nav class="dr-menu">
+            <div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Menu</a></div>
+            <ul>
+                <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측 하러 가기</a></li>
+                <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/weather">이번주 날씨 보기</a></li>
+                <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
+                <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
+                <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/help">서비스 설명</a></li>
+            </ul>
+        </nav>
+        </div>
+
+    </header>
+    
 	<body>
 		<div class="container">	
-			<!-- Codrops top bar -->
-			<div class="codrops-top clearfix">
-				<a href="http://tympanus.net/Development/FullscreenLayoutPageTransitions/"><strong>&laquo; Previous Demo: Fullscreen Layout with Page Transitions</strong></a>
-				<span class="right"><a href="http://tympanus.net/codrops/?p=14806"><strong>Back to the Codrops Article</strong></a></span>
-			</div><!--/ Codrops top bar -->
-			<header class="clearfix">
-				<h1>이날어때?!<span>(inalutte)</span></h1>	
-			</header>
+			
 			<div class="main"> 
                 <h3>저희 서비스는 에버랜드, 롯데월드 등등의 놀이공원 가고싶어하는 분들이 가고싶은 날짜를 선택하면</h3>
                 <h3>원하는 날의 놀이공원 이용자 수를 머신러닝을 기반으로 더 정확하게 예측해 주며</h3>
@@ -31,9 +60,10 @@
                 <img src="./에버랜드2.jpg" width="250" height="300">
 				<div class="side">
 					<nav class="dr-menu">
-						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Account</a></div>
+                        <br><br><br><br>
+						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Home</a></div>
 						<ul>
-							<li><a class="dr-icon dr-icon-user" href="http://localhost:5010">뒤로가기</a></li>
+							<li><a class="dr-icon dr-icon-user" href="http://localhost:5010">돌아가기</a></li>
 						</ul>
 					</nav>
 				</div>

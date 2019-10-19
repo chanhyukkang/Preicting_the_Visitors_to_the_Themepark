@@ -98,31 +98,41 @@
     
 	<body>
 		<div class="container">	
-			
-			<div class="main">
-        <div>
-            <div>방문 예정 날짜를 입력해주세요</div>
-            <br>
-
-            <form action="/complete" method="post">
-                <input type='text' name='date' id = 'container' enctype = "multipart/form-data"/>
-                <input type = "submit" value = "예상하기" name = 'selectDate' class = 'button' onclick="location.href='http://localhost:5010/complete'"/>
-            </form>
-
-            <br>
-            <div id = bodytext>YYYY-M-D와 같은 방식으로 입력해주세요</div>
-        </div>
-				<div class="side">
+			<div style = "width:300px; float:left">
 					<nav class="dr-menu">
-                        <br><br><br><br>    
-						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Home</a></div>
+						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Menu</a></div>
 						<ul>
-							<li><a class="dr-icon dr-icon-user" href="http://localhost:5010">돌가기</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측 하러 가기</a></li>
+                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/weather">이번주 날씨 보기</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
+                            <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
+                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/help">서비스 설명</a></li>
+							<li><a class="dr-icon dr-icon-user" href="http://localhost:5010">Home</a></li>
 						</ul>
 					</nav>
 				</div>
-			</div>
+			<div class="main" stlye="width:100px; float:left">
+                
+                    <h3>방문 예정 날짜를 입력해주세요</h3>
+                    <br>
+
+                    <form action="/complete" method="post">
+                        <input type='text' name='date' id = 'container' enctype = "multipart/form-data"/>
+                        <input type = "submit" value = "예상하기" name = 'selectDate' class = 'button' onclick="location.href='http://localhost:5010/complete'"/>
+                    </form>
+
+                    <br>
+                    <div id = bodytext>YYYY-M-D와 같은 방식으로 입력해주세요</div>
+            </div>
+        
+    
 		</div><!-- /container -->
 		<script src="js/ytmenu.js"></script>
 	</body>
+    <footer>
+        <center>
+            <h3 style="color:black">
+                <br>서울대공원 온라인 티켓 예매 오픈!10/1(화)부터~
+            </h3></center>
+    </footer>
 </html>

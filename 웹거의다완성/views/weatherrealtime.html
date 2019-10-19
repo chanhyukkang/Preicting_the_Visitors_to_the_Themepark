@@ -63,85 +63,88 @@
     
     <body>
 		<div class="container">	
-			
-			<div class="main">
-                <br>
-                <br><br><br><br>
-				<h2>날씨 상황입니다</h2>
-                
-                <h3>도시 이름을 영어로 입력해주세요 (ex:서울->seoul,부산->busan 등등)</h3>
-                <br>
-                <input id="city" value="seoul"> </input>
-
-<button id="getWeatherForcast" class = 'button'>날씨보기</button><!-- 버튼을 누르면 지역이 뜸 -->
-
-<div id="showWeatherForcast"></div>
-
-<img id="weatherImg"/>
-
-<script type="text/javascript">
-
-$(document).ready(function(){
-
-    $("#getWeatherForcast").click(function(){
-
-        var atmos;
-        var city = $("#city").val();//입력한 도시정보 가져오는듯 - 단일 모드
-        var key = '36306aa3ee496393a49c392f323c30fe';
-        
-        //var weekday = ['월', '화', '수', '목', '금', '토', '일'];
-        var d = new Date();
-
-        $.ajax({/* ajax는 새로고침할 필요없이 버튼을 클릭하면 자동으로 새로 기능이 수행하게끔 해준다. */
-
-            url: 'https://api.openweathermap.org/data/2.5/forecast?appid='+key+'&q='+city+'&count=10',//이미지
-
-            dataType: 'json',
-
-            type: 'GET',
-
-            success: function(data){//출력부
-                console.log('Received data:', data)
-                var wf = '';
-                var atmos = "";
-                
-                var date = d.getDate();
-                var month = d.getMonth();
-                //var weekdate = d.getDay();
-                var day = date;
-                var m = month+1;
-                
-
-                wf += "<h2>" + data.city.name + "</h2>"; // City (displays once)
-                $.each(data.list, function(index, val) {
-                    wf += "<p>" // Opening paragraph tag
-                    if(index%8==0){
-                      wf += "<b>"+m+"월"+ (day + index/8) +"일</b>: " // Day
-                      wf += (val.main.temp-273.15).toFixed(1) + "&degC" // Temperature
-                      wf += "<span> | " + val.weather[0].description + "</span>"; // Description
-                      wf += "<img src='https://openweathermap.org/img/w/" + val.weather[0].icon + ".png'>" // Icon
-                    }
-                      wf += "</p>" // Closing paragraph tag
-                });
-            $("#showWeatherForcast").html(wf);      
-            }   
-        });
-    });
-});
-
-</script>
-
-				<div class="side">
+			<div style = "width:300px; float:left;">
 					<nav class="dr-menu">
-                        <br><br><br><br>
-						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Home</a></div>
+                        <br><br>
+						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Menu</a></div>
 						<ul>
-                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010">돌아가기</a></li>
+                            li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측 하러 가기</a></li>
+                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/weather">이번주 날씨 보기</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
+                            <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
+                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/help">서비스 설명</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010">Home</a></li>
 						</ul>
 					</nav>
 				</div>
+            
+			<div class="main" style = "width:1000px; float:left;">
+                <br><br><br><br><br>
+                <h3>도시 이름을 영어로 입력해주세요 (ex:서울->seoul,부산->busan 등등)</h3>
+                <br>
+                <input id="city" value="seoul"> </input>
+                <button id="getWeatherForcast" class = 'button'>날씨보기</button><!-- 버튼을 누르면 지역이 뜸 -->
+
+                <div id="showWeatherForcast"></div>
+                <img id="weatherImg"/>
+
+                <script type="text/javascript">
+
+                $(document).ready(function(){
+
+                    $("#getWeatherForcast").click(function(){
+
+                        var atmos;
+                        var city = $("#city").val();//입력한 도시정보 가져오는듯 - 단일 모드
+                        var key = '36306aa3ee496393a49c392f323c30fe';
+
+                        //var weekday = ['월', '화', '수', '목', '금', '토', '일'];
+                        var d = new Date();
+
+                        $.ajax({/* ajax는 새로고침할 필요없이 버튼을 클릭하면 자동으로 새로 기능이 수행하게끔 해준다. */
+
+                            url: 'https://api.openweathermap.org/data/2.5/forecast?appid='+key+'&q='+city+'&count=10',//이미지
+
+                            dataType: 'json',
+
+                            type: 'GET',
+
+                            success: function(data){//출력부
+                                console.log('Received data:', data)
+                                var wf = '';
+                                var atmos = "";
+
+                                var date = d.getDate();
+                                var month = d.getMonth();
+                                //var weekdate = d.getDay();
+                                var day = date;
+                                var m = month+1;
+
+                                wf += "<h2>이번주 " + data.city.name + " 의 날씨</h2>"; // City (displays once)
+                                $.each(data.list, function(index, val) {
+                                    wf += "<p><h2>" // Opening paragraph tag
+                                    if(index%8==0){
+                                      wf += "<b>"+m+"월"+ (day + index/8) +"일</b>: " // Day
+                                      wf += (val.main.temp-273.15).toFixed(1) + "&degC" // Temperature
+                                      wf += "<span> | " + val.weather[0].description + "</span>"; // Description
+                                      wf += "<img src='https://openweathermap.org/img/w/" + val.weather[0].icon + ".png'>" // Icon
+                                    }
+                                      wf += "</h2></p>" // Closing paragraph tag
+                                });
+                            $("#showWeatherForcast").html(wf);      
+                            }   
+                        });
+                    });
+                });
+                </script>
 			</div>
 		</div><!-- /container -->
 		<script src="js/ytmenu.js"></script>
 	</body>
+<footer>
+        <center>
+            <h3 style="color:black">
+                <br>서울대공원 온라인 티켓 예매 오픈!10/1(화)부터~
+            </h3></center>
+    </footer>
 </html>

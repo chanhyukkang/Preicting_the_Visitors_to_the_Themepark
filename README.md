@@ -20,8 +20,9 @@
 놀이기구를 타고 싶은 사람
 
 ## 모델링
-- 분류 + 시계열 핵심 feature 추출
-- DNN + regression
+- Multi-input model and mixed data
+- 시계열 핵심 feature 추출
+- DNN + LSTM + regression
 
 ## 구현
 - 미정

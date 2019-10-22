@@ -45,6 +45,9 @@ router.route('/everland').get(function(req,res){
 router.route('/lotteworld').get(function(req,res){
     res.render('lotteworldfee.html');
 });
+router.route('/seoulgrandpark').get(function(req,res){
+    res.render('seoulgrandparkfee.html');
+});
 router.route('/eworld').get(function(req,res){
     res.render('eworldfee.html');
 });

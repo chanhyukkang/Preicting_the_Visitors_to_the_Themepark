@@ -19,7 +19,7 @@
         .wrapper{width: 1300px; margin:0 auto;}
         .clearfix{content:''; display:block; clear:both;}
         
-        header{height:80px; background-color:#389561;
+        header{height:80px; background-color:#414240;
             position:fixed; width:100%; z-index:9999; top:0; left:0;}
         h1{line-height:80px; float:left;}
         .dr-menu{float:right;}
@@ -36,15 +36,21 @@
             background-size : cover;
          }
          .button {
-             border:1x dashed #ff0080;    /*---테두리 정의---*/
-             background-Color:#ffe1f2;   /*--백그라운드 정의---*/
-             font:20px 굴림;      /*--폰트 정의---*/
-             font-weight:bold;   /*--폰트 굵기---*/
-             color:#ff0080;    /*--폰트 색깔---*/
-             width:100px;
-             height:30px;  /*--버튼 크기---*/
+             border:1px solid #414240;    /*---테두리 정의---*/
+             background-Color:#414240;   /*--백그라운드 정의---*/
+             font-size:16px;      /*--폰트 정의---*/
+             color:#fff;    /*--폰트 색깔---*/
+             width:155px;
+             height:44px;  /*--버튼 크기---*/
+             letter-spacing: 2px;
+             border-radius:50px;
+             cursor:hand;
              align-items: center;
              justify-content: center;
+              text-align: center;
+              position: relative;
+              text-decoration: none;
+              display:inline-block;
          }
          #container * {
              margin-left:auto;
@@ -81,21 +87,13 @@
     
     <header class="clearfix">
         <div class = "wrapper">
-        <h1 style="font-size:40pt"><a href="http://localhost:5010">INAL UTTE ?!</a></h1>
-<!--
-        <nav class="dr-menu">
-            <div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Menu</a></div>
-            <ul>
-                <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측 하러 가기</a></li>
-                <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/weather">이번주 날씨 보기</a></li>
-                <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
-                <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
-                <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/help">서비스 설명</a></li>
-            </ul>
-        </nav>
--->
+            <table>
+                <tr>
+                    <td><a href="http://localhost:5010/"><img src="./good.png" width="40" height="40" ></a></td>
+                    <td><h1 style="font-size:40pt"><a href="http://localhost:5010">INAL UTTE ?!</a></h1></td>
+                </tr>
+            </table>
         </div>
-
     </header>
     
 	<body>
@@ -106,30 +104,43 @@
                 
                     <h2>방문 예정 날짜를 입력해주세요</h2>
                     <br>
-
                     <form action="/complete" method="post">
-                        <input type='text' name='date' id = 'container' enctype = "multipart/form-data" value="YYYY-MM-DD" onfocus="this.value=''"/>
-                        <input type = "submit" value = "예상하기" name = 'selectDate' class = 'button' onclick="location.href='http://localhost:5010/complete'"/>
+                        <input type='text' name='date' id = 'container' style="height:30px" enctype = "multipart/form-data" value="YYYY-MM-DD" onfocus="this.value=''"/>
+                        <input type = "submit" value = "예측하기" name = 'selectDate' class = 'button' onclick="location.href='http://localhost:5010/complete'"/>
                     </form>
-
                     <br>
                     <div id = bodytext>YYYY-MM-DD와 같은 방식으로 입력해주세요</div>
             </div>
             <div class="main" style = "width:500px; height: 1000px; float:left; ">
                 
                 <h2>날씨와 함께 알아보고 싶을 때</h2>
-                <br>
-                <input id="city" value="ex)영어로 seoul, busan 등등" onfocus="this.value=''" > </input>
-                <button id="getWeatherForcast" class = 'button'>날씨보기</button><!-- 버튼을 누르면 지역이 뜸 -->
-
+                
+                <input id="city" value="ex)영어로 seoul, busan 등등" style="height:30px" onfocus="this.value=''" > </input>
+                <a href="#" id="getweather" class="btn10">날씨보기</a>
                 <div id="showWeatherForcast"></div>
                 <img id="weatherImg"/>
+
+                <script>
+                $(function(){
+                        var twoToneButton = document.querySelector('.btn10');
+
+                        twoToneButton.addEventListener("click", function() {
+                            twoToneButton.innerHTML = "가져오는 중";
+
+                          setTimeout( 
+                                function  (){  
+                                    twoToneButton.innerHTML = "날씨보기";
+                                }, 1000);
+                        }, false);
+
+                    });
+                </script>   
 
                 <script type="text/javascript">
 
                 $(document).ready(function(){
 
-                    $("#getWeatherForcast").click(function(){
+                    $("#getweather").click(function(){
 
                         var atmos;
                         var city = $("#city").val();//입력한 도시정보 가져오는듯 - 단일 모드
@@ -157,7 +168,7 @@
                                 var day = date;
                                 var m = month+1;
 
-                                wf += "<h2>이번주 " + data.city.name + " 의 날씨</h2><br>"; // City (displays once)
+                                wf += "<br><h2>이번주 " + data.city.name + " 의 날씨</h2><br>"; // City (displays once)
                                 $.each(data.list, function(index, val) {
                                     wf += "<p><h2>" // Opening paragraph tag
                                     if(index%8==0){
@@ -179,7 +190,7 @@
 					<nav class="dr-menu">
 						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Menu</a></div>
 						<ul>
-                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측 하러 가기</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측하러 가기</a></li>
                             <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/weather">이번주 날씨 보기</a></li>
                             <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
                             <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>

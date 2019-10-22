@@ -215,7 +215,7 @@
 	content: "\e007";
 }
 
-.btn, .btn2, .btn3, .btn4, .btn5, .btn6, .btn7, .btn10, btn13{
+.btn, .btn2, .btn3, .btn4, .btn5, .btn6, .btn7, .btn10, .btn13{
   padding: 10px 40px;
   margin:1px 4px;
   color: #fff;
@@ -802,7 +802,7 @@ transition: all .3s
 
 
 .btn13:hover{
-    border: 1px solid #071982;
+    border: 1px solid #00CC00;
 	  color: #80ffd3!important;
 }
 .btn13::before {
@@ -810,7 +810,7 @@ transition: all .3s
     width: 0%;
     height: 100%;
     display: block;
-    background: green;
+    background: #00CC00;
     position: absolute;
 	  -ms-transform: skewX(-20deg);
     -webkit-transform: skewX(-20deg); 

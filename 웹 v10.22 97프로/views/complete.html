@@ -67,14 +67,15 @@
                     var result = <%- JSON.stringify(realresults) %>;
                     var yoil = <%- JSON.stringify(yoil) %>;
                     console.log(result);
-                    document.write("<h2>");
+                    document.write("<h2 style='font-size:40px'>");
                     document.write("예상 인원은 ");
-                    document.write("</h2>");
-                    document.write("<h1 style='color:#414240'>");
+                   
+                    document.write("<span style='color:#414240; font-size:50px;'>");
                     document.write(result[result.length-1]);
-                    document.write("</h1>");
-                    document.write("<h2>");
+                    document.write("</span >");
+                    document.write("<span style='font-size:40px;'>");
                     document.write(" 명 입니다");
+                    document.write("</span>"); 
                     document.write("</h2>");
                                       
 /*

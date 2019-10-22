@@ -107,6 +107,15 @@
                     <br>
                     <form action="/complete" method="post">
                         <input type='text' name='date' id = 'container' style="height:30px" enctype = "multipart/form-data" value="YYYY-MM-DD" onfocus="this.value=''"/>
+                        <select name="day" value = "요일" style = "width:60px; height:30px">	
+                        <option value = "mon">월</option>	
+                        <option value = "tue">화</option>	
+                        <option value = "wed">수</option>	
+                        <option value = "thur">목</option>	
+                        <option value = "fri">금</option>	
+                        <option value = "sat">토</option>	
+                        <option value = "sun">일</option>	
+                        </select>
                         <input type = "submit" value = "예측하기" name = 'selectDate' class = 'button' onclick="location.href='http://localhost:5010/complete'"/>
                     </form>
                     <br>

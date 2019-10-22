@@ -67,10 +67,16 @@
                     var result = <%- JSON.stringify(realresults) %>;
                     var yoil = <%- JSON.stringify(yoil) %>;
                     console.log(result);
-                    document.write("<h1>");
-                    document.write("예상인원은"+result[result.length-1]+"명입니다");
+                    document.write("<h2>");
+                    document.write("예상 인원은 ");
+                    document.write("</h2>");
+                    document.write("<h1 style='color:#414240'>");
+                    document.write(result[result.length-1]);
                     document.write("</h1>");
-                    
+                    document.write("<h2>");
+                    document.write(" 명 입니다");
+                    document.write("</h2>");
+                                      
 /*
 평일
 15000명이상 : 0점
@@ -91,90 +97,88 @@
                     if(yoil=="sat"||yoil=="sun")
                     {
                         if(result[result.length-1]>=25000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("주말이고 사람이 매우 많이 몰릴 예정이라서 주의하셔야 합니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br>");
                             document.write("<img src = './6점.png' width = 250 height = 250>");
                         }
                         else if(result[result.length-1]>=20000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("주말이고 사람이 많이 몰릴 예정입니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br><br><br>");
                             document.write("<img src = './5점.png' width = 200 height = 200>");
                         }
                         else if(result[result.length-1]>=15000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("주말이고 사람이 평소보다는 많이 몰릴 예정입니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br><br><br>");
                             document.write("<img src = './4점.png' width = 200 height = 200>");
                         }
                         else if(result[result.length-1]>=10000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("주말이고 사람이 평소만큼 몰릴 예정입니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br><br><br>");
                             document.write("<img src = './3점.png' width = 150 height = 150>");
                         }
                         else if(result[result.length-1]>=5000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("주말이고 사람이 적어 쾌적한 이용이 가능할 예정입니다");
-                            document.write("</h1><br><br><br><br><br>");
-                            document.write("<br>");
+                            document.write("</h2><br><br><br><br><br><br><br>");
                             document.write("<img src = './2점.png' width = 150 height = 150>");
                         }
                         else{
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("주말이지만 사람이 매우 적어 쾌적한 이용이 가능할 예정입니다");
-                            document.write("</h1><br><br><br><br><br>");
-                            document.write("<br>");
+                            document.write("</h2><br><br><br><br><br><br><br>");
                             document.write("<img src = './1점.png' width = 150 height = 150>");
                         }
                     }
                     else
                     {
                         if(result[result.length-1]>=15000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("평일이며 사람이 매우 많이 몰려 혼잡할 예정입니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br>");
                             document.write("<img src = './6점.png' width = 250 height = 250>");
                         }
                         else if(result[result.length-1]>=12000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("평일이며 사람이 많이 몰려 혼잡할 예정입니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br><br><br>");
                             document.write("<img src = './5점.png' width = 200 height = 200>");
                         }
                         else if(result[result.length-1]>=9000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("평일이며 사람이 평소보다는 많이 몰릴 예정입니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br><br><br>");
                             document.write("<img src = './4점.png' width = 200 height = 200>");
                         }
                         else if(result[result.length-1]>=6000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("평일이며 사람이 평소만큼 몰릴 예정입니다");
-                            document.write("</h1>");
+                            document.write("</h2>");
                             document.write("<br><br><br><br><br><br>");
                             document.write("<img src = './3점.png' width = 150 height = 150>");
                         }
                         else if(result[result.length-1]>=3000){
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("평일이며 사람이 적어 쾌적한 이용이 가능할 예정입니다");
-                            document.write("</h1>");
-                            document.write("<br><br><br><br><br><br>");
+                            document.write("</h2>");
+                            document.write("<br><br><br><br><br><br><br>");
                             document.write("<img src = './2점.png' width = 150 height = 150>");
                         }
                         else{
-                            document.write("<h1>");
+                            document.write("<h2>");
                             document.write("평일이며 사람이 매우 적어 쾌적한 이용이 가능할 예정입니다");
-                            document.write("</h1>");
-                            document.write("<br><br><br><br><br><br>");
+                            document.write("</h2>");
+                            document.write("<br><br><br><br><br><br><br>");
                             document.write("<img src = './1점.png' width = 150 height = 150>");
                         }
                     }

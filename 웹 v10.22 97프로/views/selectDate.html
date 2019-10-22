@@ -83,6 +83,7 @@
             overflow:hidden; 
             margin-left:-100px;
         }
+        
     </style>
     
     <header class="clearfix">
@@ -106,19 +107,12 @@
                     <br>
                     <form action="/complete" method="post">
                         <input type='text' name='date' id = 'container' style="height:30px" enctype = "multipart/form-data" value="YYYY-MM-DD" onfocus="this.value=''"/>
-                        <select name="day" value = "요일" style = "width:60px">
-                        <option value = "mon">월</option>
-                        <option value = "tue">화</option>
-                        <option value = "wed">수</option>
-                        <option value = "thur">목</option>
-                        <option value = "fri">금</option>
-                        <option value = "sat">토</option>
-                        <option value = "sun">일</option>
-                        </select>
                         <input type = "submit" value = "예측하기" name = 'selectDate' class = 'button' onclick="location.href='http://localhost:5010/complete'"/>
                     </form>
                     <br>
                     <div id = bodytext>YYYY-MM-DD와 같은 방식으로 입력해주세요</div>
+                    <br>
+                    <img id="image" src="dot.gif" style="width:100px; height:100px;">
             </div>
             <div class="main" style = "width:500px; height: 1000px; float:left; ">
                 
@@ -128,7 +122,8 @@
                 <a href="#" id="getweather" class="btn10">날씨보기</a>
                 <div id="showWeatherForcast"></div>
                 <img id="weatherImg"/>
-
+                <br><br><br><br>
+                <img  src="weatherloading.gif" style="width:100px; height:100px;">
                 <script>
                 $(function(){
                         var twoToneButton = document.querySelector('.btn10');
@@ -208,6 +203,7 @@
 						</ul>
 					</nav>
 				</div>
+    
 		</div><!-- /container -->
 		<script src="js/ytmenu.js"></script>
 	</body>

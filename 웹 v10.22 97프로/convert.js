@@ -38,6 +38,9 @@ router.route('/help').get(function(req,res){
 router.route('/amusementpark').get(function(req,res){
     res.render('amusementpark.html');
 });
+router.route('/allamusementpark').get(function(req,res){
+    res.render('allamusementpark.html');
+});
 router.route('/pastinfo').get(function(req,res){
     res.render('pastinfo.html');
 });

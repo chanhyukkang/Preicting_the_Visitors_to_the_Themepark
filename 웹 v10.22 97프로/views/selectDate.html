@@ -30,6 +30,7 @@
             position:fixed; width:100%; left:0; bottom:0;border:1px solid white}
 
         body {
+            width: 100%;
             margin-top:80px; margin-bottom:100px
             background-image : url('bgimg.jpg');
             background-repeat : no-repeat;
@@ -51,7 +52,11 @@
               position: relative;
               text-decoration: none;
               display:inline-block;
+             
          }
+        .button:hover{
+              color: #80ffd3!important;    
+        }
          #container * {
              margin-left:auto;
              margin-right:auto;
@@ -60,15 +65,6 @@
          #header {
              text-align: center;
              font-size: 50px;
-         }
-
-         body {
-             width: 100%;
-         }
-
-         #bodytext{
-             
-             font-size: 20px;
          }
          div {
              margin-left: auto;
@@ -101,12 +97,18 @@
 		<div class="container">	
             <div style="width:200px; float:left;"><br></div>
 			
-			<div class="main" style="width:500px; float:left;" >
-                
-                    <h2>방문 예정 날짜를 입력해주세요</h2>
+			<div class="main" style="width:500px; float:left; " >
+                <br>
+                    <h2>방문 예정 날짜와 요일을 입력해주세요</h2>
                     <br>
                     <form action="/complete" method="post">
-                        <input type='text' name='date' id = 'container' style="height:30px" enctype = "multipart/form-data" value="YYYY-MM-DD" onfocus="this.value=''"/>
+                        <select vlaue="놀이공원" style = "height:30px">	
+                        <option >에버랜드</option>	
+                        <option>롯데월드</option>	
+                        <option>서울대공원</option>	
+                        <option>대구e월드</option>		
+                        </select>
+                        <input type='text' name='date' id = 'container' style="width:120px; height:30px" enctype = "multipart/form-data" value="YYYY-MM-DD" onfocus="this.value=''"/>
                         <select name="day" value = "요일" style = "width:60px; height:30px">	
                         <option value = "mon">월</option>	
                         <option value = "tue">화</option>	
@@ -119,12 +121,13 @@
                         <input type = "submit" value = "예측하기" name = 'selectDate' class = 'button' onclick="location.href='http://localhost:5010/complete'"/>
                     </form>
                     <br>
-                    <div id = bodytext style="font-size:17px;">YYYY-MM-DD와 같은 방식으로 입력해주세요</div>
+                    <div style="font-size:17px;">YYYY-MM-DD와 같은 방식으로 입력해주세요</div>
                     
                     <img id="image" src="dot.gif" style="width:100px; height:100px; margin:150px;">
+                
             </div>
             <div class="main" style = "width:500px; height: 1000px; float:left; ">
-                
+                <br>
                 <h2>날씨와 함께 알아보고 싶을 때</h2>
                 
                 <input id="city" value="ex)영어로 seoul, busan 등등" style="height:30px" onfocus="this.value=''" > </input>
@@ -199,16 +202,16 @@
                 });
                 </script>
 			</div>
-        <div style = "width:300px; float:left; height: 1000px; background-color:#91cfa1">
+        <div style = "width:300px; float:left; height: 1000px; background-color:#6FCC98">
 					<nav class="dr-menu">
 						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Menu</a></div>
 						<ul>
                             <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측하러 가기</a></li>
-                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/weather">이번주 날씨</a></li>
-                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
-                            <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
-                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/help">서비스 설명</a></li>
-							<li><a class="dr-icon dr-icon-user" href="http://localhost:5010">Home</a></li>
+                            <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/weather">이번주 날씨</a></li>
+                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
+                            <li><a class="dr-icon dr-icon-bullhorn" href="http://localhost:5010/help">서비스 설명</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010">Home</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -216,10 +219,10 @@
 		</div><!-- /container -->
 		<script src="js/ytmenu.js"></script>
 	</body>
-    <footer>
+    <footer style="background: #60B8E6">
         <center>
             <h3 style="color:black">
-                <br>서울대공원 온라인 티켓 예매 오픈!10/1(화)부터~
+                <img src="서울대공원로고.png" style="height:100px;"><img src="아주1.png" style=" height:100px;"><img src="아주2.png" style=" height:100px;"><img src="공익.png" style=" height:100px;">
             </h3></center>
     </footer>
 </html>

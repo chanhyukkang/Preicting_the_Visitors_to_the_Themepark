@@ -47,6 +47,9 @@
             <div style="width:200px; float:left;"><br></div>
 			
 			<div class="main" style="width:1000px; float:left;">
+                <br>
+                <h2>그 날엔 몇 명이 왔었을까?</h2>
+                <br>
                 <script>
                     var year1 = <%- JSON.stringify(year) %>;
                     var month1 = <%- JSON.stringify(month) %>;
@@ -55,42 +58,43 @@
                     var holiday = <%- JSON.stringify(holiday) %>;
                     var temperature = <%- JSON.stringify(temperature) %>;
                     var rain = <%- JSON.stringify(rain) %>;
-                    console.log(year1+"년 "+month1+"월 "+day1+"일의 입장객은 "+pnum+"명입니다");
+                    console.log(year1+"년 "+month1+"월 "+day1+"일의 입장객은 "+pnum+"명 이었고");
+                    
                     document.write("<h1>");
-                    document.write(year1+"년"+month1+"월"+day1+"일의 입장객은 "+pnum+"명입니다");
+                    document.write(year1+"년"+month1+"월"+day1+"일의 입장객은 "+pnum+"명 이었고");
                     document.write("</h1>");
-                    document.write("<h1>");
-                    document.write("온도는 "+temperature+"'C이며 강수량은 "+rain+"mm입니다");
-                    document.write("</h1>");        
+                    document.write("<h2>");
+                    document.write("온도는 "+temperature+"'C, 강수량은 "+rain+"mm였어요.");
+                    document.write("</h2>");        
                     if(holiday==1)
                         {
-                            document.write("<h1>");
-                            document.write("공휴일이므로 평소보다 사람이 많을수 있습니다");
-                            document.write("</h1>");
+                            document.write("<h2><br>");
+                            document.write("이 날은 공휴일이라 평소보다 사람이 많을 수도 있었겠어요.");
+                            document.write("</h2>");
                         }
                 </script>
             
          </div>
-            <div style="width:300px; float:left; height: 1000px; background-color:#91cfa1">
+            <div style="width:300px; float:left; height: 1000px; background-color:#6FCC98">
 					<nav class="dr-menu">
 						<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span><a class="dr-label">Menu</a></div>
 						<ul>
                             <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/date">예측하러 가기</a></li>
-                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/weather">이번주 날씨</a></li>
-                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
-                            <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
-                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/help">서비스 설명</a></li>
-							<li><a class="dr-icon dr-icon-user" href="http://localhost:5010">Home</a></li>
+                            <li><a class="dr-icon dr-icon-heart" href="http://localhost:5010/weather">이번주 날씨</a></li>
+                            <li><a class="dr-icon dr-icon-camera" href="http://localhost:5010/amusementpark">놀이공원 정보</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010/pastinfo">과거 입장객 수</a></li>
+                            <li><a class="dr-icon dr-icon-bullhorn" href="http://localhost:5010/help">서비스 설명</a></li>
+                            <li><a class="dr-icon dr-icon-user" href="http://localhost:5010">Home</a></li>
 						</ul>
 					</nav>
 				</div>
 		</div><!-- /container -->
 		<script src="js/ytmenu.js"></script>
 	</body>
-    <footer>
+    <footer style="background: #FFEFD5">
         <center>
             <h3 style="color:black">
-                <br>서울대공원 온라인 티켓 예매 오픈!10/1(화)부터~
+                <img src="광고2.jpg" style="width:550px; height:100px;">    <img src="광고1.jpg" style="width:550px; height:100px;">
             </h3></center>
     </footer>
 </html>

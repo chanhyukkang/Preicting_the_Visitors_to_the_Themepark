@@ -19,7 +19,7 @@
 	font-size: 1.3em;
 	line-height: 2.5;
 	font-weight: 400;
-	color: #fff;
+	color: #414240;
 	padding-top: 2em;
 }
 
@@ -160,7 +160,7 @@
 .dr-menu ul li a {
 	display: inline-block;
 	padding: 0 20px;
-	color: #fff;
+	color: #414240;
 }
 
 .dr-menu ul li a:hover {
@@ -562,7 +562,6 @@ transition: all .3s
 
 
 .btn10:hover{
-    border: 1px solid #071982;
 	  color: #80ffd3!important;
 }
 .btn10::before {

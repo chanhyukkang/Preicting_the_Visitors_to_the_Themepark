@@ -4,7 +4,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/kopubbatang.css);
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
-body, html { font-size: 100%; padding: 0; margin: 0; letter-spacing: 2px}
+body, html { font-size: 100%; padding: 0; margin: 0; letter-spacing: 1px}
 
 /* Reset */
 *,
@@ -27,9 +27,9 @@ body, html { font-size: 100%; padding: 0; margin: 0; letter-spacing: 2px}
 }
 
 body {
-	font-family: 'Source Sans Pro', Calibri, Arial, sans-serif;
-	color: #fff;
-	background: #6FCC98;
+	font-family: 'Source Sans Pro', sans-serif, Calibri, Arial, ;
+	color: #414240;
+	background: #91cfa1;
 	font-weight: 300;
 }
 

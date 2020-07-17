@@ -21,8 +21,18 @@
 
 ## 모델링
 - Multi-input model and mixed data
+![11](https://user-images.githubusercontent.com/48430005/87755340-cadafc80-c841-11ea-8359-0d55f4679eb0.png)
 - 시계열 핵심 feature 추출
 - DNN + LSTM + regression
+![22](https://user-images.githubusercontent.com/48430005/87755344-cc0c2980-c841-11ea-98d4-c7cf26b6bc4a.png)
+![33](https://user-images.githubusercontent.com/48430005/87755348-cca4c000-c841-11ea-96d0-b6a788ce8c2b.png)
+
+## 모델 학습 결과
+![44](https://user-images.githubusercontent.com/48430005/87755351-cdd5ed00-c841-11ea-9be7-65f7ec60b1ee.png)
+실제값과 예측값의 오차는 생각보다 크지만 경향성은 잘 예측
+training set과 test set의 평균 입장객 수 차이는 9500명, 6100명으로 
+설계한 모델의 오차가 더 낮은 것을 확인함
 
 ## 구현
-- 미정
+![55](https://user-images.githubusercontent.com/48430005/87755365-d3333780-c841-11ea-85ed-160864971674.png)
+![66](https://user-images.githubusercontent.com/48430005/87755368-d4646480-c841-11ea-99fa-0ed969ef771b.png)
